@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'apps.apps.AppsConfig',
-    'bootstrap_datepicker_plus',
+    #'bootstrap_datepicker_plus',
     'apps.aula',
     'apps.curso',
     'apps.docente',
