@@ -5,7 +5,7 @@ django-bootstrap-datepicker-plus==3.0.5
 html5lib==1.0b10
 numpy==1.18.3
 olefile==0.46
-Pillow==4.1.0
+Pillow==9.0.0
 pisa==3.0.33
 pycparser==2.20
 PyMySQL==0.9.3
